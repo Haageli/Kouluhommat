@@ -1,0 +1,41 @@
+Header Exercise 1
+**will**
+_not_
+_of course_**a little moxie**
+**_This is unbelievable_**
+#Header one
+##Header two
+###Header three
+####Header four
+#####Header five
+######Header six
+####Colombian Symbolism in One Hundred Years of Solitude
+Here's some words about the book _0ne Hundred Years_.
+
+##Exercise 2
+**Extensible Markup Language** (XML) is a _markup language_ and _file format_ for storing, transmitting, and reconstructing **_arbitrary data_**. 
+The **HyperText Markup Language** or **HTML** _is the standard [markup language](www.google.com) for documents _designed to be displayed_ in a **web browser**.  
+###Exercise 3
+[Lionel Messi Wins the World Cup!](https://youtu.be/yEKbys2vAco)
+[![Messi](https://i.ytimg.com/vi/NhLaHUgjCCQ/maxresdefault.jpg)](https://youtu.be/NhLaHUgjCCQ "Messi")
+![Dog picture](https://images.unsplash.com/photo-1615751072497-5f5169febe17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3V0ZSUyMGRvZ3xlbnwwfHwwfHw%3D&w=1000&q=80)
+##Exercise 4
+
+public class Person{
+  private string name;
+  private int age;
+
+  public Person(string initialName)
+  {
+    this.age = 0;
+    this.name = initialName;
+  }
+  public void PrintPerson()
+  {
+    Console.WriteLine(this.name + ", age " + this.age + " years");
+  }
+  public void GrowOlder()
+  {
+    this.age = this.age + 1;
+  }
+}
